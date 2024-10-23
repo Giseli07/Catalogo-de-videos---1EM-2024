@@ -2,3 +2,11 @@ body {
     color: rgb(2, 59, 2);
     background-color: orange;
 }
+
+section {
+background: rgb(243, 97, 6);
+padding-bottom: 80px;
+padding-top: 80px;
+
+
+}
