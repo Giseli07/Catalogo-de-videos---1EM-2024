@@ -22,8 +22,8 @@ header {
 }
 
 .chamada-texto {
-    margin-right: 5%;
-    margin-left: 10%;
+    margin-right: 5%; //margem texto direita
+    margin-left: 10%;//margem texto esquerda
 }
 
 h1 {
@@ -44,6 +44,7 @@ p {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
+    margin-left: 50px ;
 }
 
 .categoria-videos img {
