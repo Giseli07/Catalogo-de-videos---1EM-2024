@@ -3,7 +3,7 @@ body {
     background: rgba(247, 243, 8, 0.989);
     margin: 50px;
     font-family: "Chakra Petch", sans-serif;
-    margin-bottom: 100px;
+    margin-bottom: 50px; // margem da borda amerela
 }
 
 header {
