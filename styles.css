@@ -8,9 +8,9 @@ body {
 
 header {
     border-bottom: solid 2px rgb(242, 35, 35);
-    padding: 50px; // espaço do cabeçalho
+    padding: 20px; // espaço do cabeçalho
     font-size: 32px;
-    color: rgb (black);
+    color: rgb (0,0,0);
 }
 
 .chamada {
