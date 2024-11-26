@@ -9,7 +9,7 @@ body {
 header {
     border-bottom: solid 2px rgb(242, 35, 35);
     padding: 20px; // espaço do cabeçalho
-    font-size: 100px;
+    font-size: 40px;
     color: rgb(242, 35, 35);
 }
 
