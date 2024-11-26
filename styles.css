@@ -3,12 +3,12 @@ body {
     background: rgba(247, 243, 8, 0.989);
     margin: 50px;
     font-family: "Chakra Petch", sans-serif;
-    margin-bottom: 120px; // margem da borda amerela
+    margin-bottom: 120px; // margem da borda amarela
 }
 
 header {
     border-bottom: solid 2px rgb(242, 35, 35);
-    padding: 20px;
+    padding: 50px;
     font-size: 32px;
     color: rgb(228, 42, 200);
 }
