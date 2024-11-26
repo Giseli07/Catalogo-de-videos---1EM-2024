@@ -10,7 +10,7 @@ header {
     border-bottom: solid 2px rgb(242, 35, 35);
     padding: 20px; // espaço do cabeçalho
     font-size: 32px;
-    color: rgb (0,0,0);
+    color: rgb(242, 35, 35);
 }
 
 .chamada {
@@ -44,7 +44,7 @@ p {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
-   hh}
+   }
 
 .categoria-videos img {
     opacity: 0.5;
